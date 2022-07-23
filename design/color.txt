@@ -11,5 +11,3 @@
 #637a91 // dark gray
 #f092b0 // pink
 #b7c0c7 // light gray
-
-https://treehouse-code-samples.s3.amazonaws.com/Android/fun_facts_colors.html
