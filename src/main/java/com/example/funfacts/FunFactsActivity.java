@@ -58,8 +58,9 @@ public class FunFactsActivity extends AppCompatActivity {
                 //Update the screen with our new fact
                 factTextView.setText(fact);
 
-                String color = colorWheel.getColor();
+                int color = colorWheel.getColor();
                 relativeLayout.setBackgroundColor(color);
+                showFactButton.setTextColor(color);
             }
         };
         showFactButton.setOnClickListener(listener);
